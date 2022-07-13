@@ -21,4 +21,4 @@ btnAction.addEventListener('click', function(){
     input.value = '';
     li.appendChild(p);
     ul.appendChild(li);
-})
+}) 
